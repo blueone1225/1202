@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>你的網站標題</title>
+  <!-- 可以根據需要添加更多的 meta 標籤 -->
+</head>
+
+<body data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+  <div id="wrapper"></div>
+  
+  <!-- iframe 用於加載外部內容（如廣告追蹤）-->
+  <iframe 
+    allow="join-ad-interest-group" 
+    data-tagging-id="G-YIYKPQKZ5D" 
+    data-load-time="1733142489760" 
+    height="0" 
+    width="0" 
+    src="https://td.doubleclick.net/td/ga/rul?id=G-YIYKPQKZ5D&gacid=160949014._m=0&tag_exp=101925629~102967555~102067808~102077885~102081485&t=1549326699" 
+    style="display: none; visibility: hidden;">
+  </iframe>
+
+  <!-- 這裡可以插入你頁面的其他內容 -->
+  
+  <script type="text/javascript">
+    <!--
+      這是一個頁面主要載入相關程式碼
+    -->
+  </script>
+
+  <!-- 引入必要的 JavaScript 库 -->
+  <script src="assets/js/jquery.min.js"></script>
+  <script src="assets/js/browser.min.js"></script>
+  <script src="assets/js/breakpoints.min.js"></script>
+  <script src="assets/js/util.js"></script>
+  <script src="assets/js/main.js"></script>
+
+  <!-- 引入 Bootstrap 和 Popper.js -->
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7EBVVD/ismYTfAfNIPjVp/ZyjgyoIv6FvRxK/V+Vc4jQKc+HVqC2pMB0Deva9r" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BtE1+eG3RgQAUtMJx7pMwByER411g+O15P+16eP7O9Q+zqX6eSbd8Bu4mG4Qq9T" crossorigin="anonymous"></script>
+
+  <!-- 頁面導覽欄 -->
+  <nav id="menu"></nav>
+</body>
+
+</html>
